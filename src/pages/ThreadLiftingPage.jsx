@@ -66,7 +66,7 @@ const ThreadLiftingPage = ({ onBack }) => {
       {/* 1. Hero Section */}
       <section className="relative h-[90vh] w-full bg-slate-200 flex flex-col justify-end overflow-hidden group">
         <img
-          src="/페이지 이미지/tai00310000594.gif"
+          src="/페이지 이미지/tai00300006150.jpg"
           alt="Thread Lifting"
           className="absolute inset-0 w-full h-full object-cover opacity-50 mix-blend-luminosity transform scale-100 transition-transform duration-[12000ms] group-hover:scale-110"
         />
